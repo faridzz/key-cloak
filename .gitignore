@@ -1,0 +1,5 @@
+/out/
+/plugins/*.jar
+/.idea/
+/.keycloak/
+keyClock.iml
